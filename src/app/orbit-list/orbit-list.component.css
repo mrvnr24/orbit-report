@@ -1,0 +1,28 @@
+.sortable {
+    cursor: pointer;
+    color: #dd5;
+}
+
+.warning {
+    background-color: rebeccapurple;
+}
+
+table {
+  color: purple;
+  border-radius: 25px;
+  overflow: hidden;
+  margin: 12px 0;
+  min-width: 300px;
+  background: lightgoldenrodyellow;
+}
+
+.header-row {
+    background: rebeccapurple;
+    color: #fff
+}
+
+th, td {
+    text-align: left;
+    margin: 5px 10px;
+    padding: 6px;
+}
